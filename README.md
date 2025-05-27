@@ -1,3 +1,3 @@
 # Foodie
 ## Fast Food Menu Management System
-Using Asp.Net C# & Sql Server
+Using Asp.Net C# & SQL Server
